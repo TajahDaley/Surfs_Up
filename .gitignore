@@ -1,11 +1,11 @@
+# Adding files to ignore
+app.py
+climate_analysis.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
-# Adding files to ignore
-app.py
-climate_analysis.ipynb
 
 
 # C extensions
