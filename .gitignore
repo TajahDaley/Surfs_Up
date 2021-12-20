@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Adding files to ignore
+app.py
+climate_analysis.ipynb
+
+
 # C extensions
 *.so
 
